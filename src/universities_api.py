@@ -17,6 +17,5 @@ def get_universities(url):
     universities_list = json.loads(my_json)
     return universities_list
 
-# universities_url = 'http://universities.hipolabs.com/search?country=Israel'
-# universities = get_universities(universities_url)
-# print(universities)
+
+

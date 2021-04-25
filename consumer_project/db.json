@@ -1,0 +1,1131 @@
+{
+  "_default": {
+    "1": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Afeka Tel Aviv Academic College of Engineering",
+      "university_domain": "afeka.ac.il",
+      "web_page": "http://www.afeka.ac.il/",
+      "alpha_code": "IL"
+    },
+    "2": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "JCT Lev Academic Center",
+      "university_domain": "jct.ac.il",
+      "web_page": "http://www.jct.ac.il/",
+      "alpha_code": "IL"
+    },
+    "3": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Ariel University Center of Samaria",
+      "university_domain": "ariel.ac.il",
+      "web_page": "http://www.ariel.ac.il/",
+      "alpha_code": "IL"
+    },
+    "4": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Ashkelon Academic College",
+      "university_domain": "ash-college.ac.il",
+      "web_page": "http://www.ash-college.ac.il/",
+      "alpha_code": "IL"
+    },
+    "5": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Bezalel Academy of Art and Design",
+      "university_domain": "bezalel.ac.il",
+      "web_page": "http://www.bezalel.ac.il/",
+      "alpha_code": "IL"
+    },
+    "6": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Ben-Gurion University of the Negev",
+      "university_domain": "bgu.ac.il",
+      "web_page": "http://www.bgu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "7": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Bar-Ilan University",
+      "university_domain": "biu.ac.il",
+      "web_page": "http://www.biu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "8": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Acdemic Center for Law and Business",
+      "university_domain": "clb.ac.il",
+      "web_page": "http://www.clb.ac.il/",
+      "alpha_code": "IL"
+    },
+    "9": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "College of Management",
+      "university_domain": "colman.ac.il",
+      "web_page": "http://www.colman.ac.il/",
+      "alpha_code": "IL"
+    },
+    "10": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Galillee College",
+      "university_domain": "galilcol.ac.il",
+      "web_page": "http://www.galilcol.ac.il/",
+      "alpha_code": "IL"
+    },
+    "11": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "University of Haifa",
+      "university_domain": "haifa.ac.il",
+      "web_page": "http://www.haifa.ac.il/",
+      "alpha_code": "IL"
+    },
+    "12": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Hebrew University of Jerusalem",
+      "university_domain": "huji.ac.il",
+      "web_page": "http://www.huji.ac.il/",
+      "alpha_code": "IL"
+    },
+    "13": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "The Interdisciplinary Center Herzliya",
+      "university_domain": "idc.ac.il",
+      "web_page": "http://www.idc.ac.il/",
+      "alpha_code": "IL"
+    },
+    "14": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Jerusalem University College",
+      "university_domain": "juc.edu",
+      "web_page": "http://www.juc.edu/",
+      "alpha_code": "IL"
+    },
+    "15": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Open University of Israel",
+      "university_domain": "openu.ac.il",
+      "web_page": "http://www.openu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "16": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Russell Berrie Nanotechnology Institute",
+      "university_domain": "rbni.technion.ac.il",
+      "web_page": "http://rbni.technion.ac.il/",
+      "alpha_code": "IL"
+    },
+    "17": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Sami Shamoon College of Engineering",
+      "university_domain": "sce.ac.il",
+      "web_page": "http://www.sce.ac.il/",
+      "alpha_code": "IL"
+    },
+    "18": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Shenkar School of Engineering & Design",
+      "university_domain": "shenkar.ac.il",
+      "web_page": "http://www.shenkar.ac.il/",
+      "alpha_code": "IL"
+    },
+    "19": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Tel Aviv University",
+      "university_domain": "tau.ac.il",
+      "web_page": "http://www.tau.ac.il/",
+      "alpha_code": "IL"
+    },
+    "20": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Technion - Israel Institute of Technology",
+      "university_domain": "technion.ac.il",
+      "web_page": "http://www.technion.ac.il/",
+      "alpha_code": "IL"
+    },
+    "21": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Weizmann Institute of Science",
+      "university_domain": "weizmann.ac.il",
+      "web_page": "http://www.weizmann.ac.il/",
+      "alpha_code": "IL"
+    },
+    "22": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Western Galilee College",
+      "university_domain": "wgalil.ac.il",
+      "web_page": "http://www.wgalil.ac.il/",
+      "alpha_code": "IL"
+    },
+    "23": {
+      "datetime": "2021-04-25 22:36:51",
+      "university_name": "Emeq Yizrael College",
+      "university_domain": "yvc.ac.il",
+      "web_page": "http://www.yvc.ac.il/",
+      "alpha_code": "IL"
+    },
+    "24": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Afeka Tel Aviv Academic College of Engineering",
+      "university_domain": "afeka.ac.il",
+      "web_page": "http://www.afeka.ac.il/",
+      "alpha_code": "IL"
+    },
+    "25": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "JCT Lev Academic Center",
+      "university_domain": "jct.ac.il",
+      "web_page": "http://www.jct.ac.il/",
+      "alpha_code": "IL"
+    },
+    "26": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Ariel University Center of Samaria",
+      "university_domain": "ariel.ac.il",
+      "web_page": "http://www.ariel.ac.il/",
+      "alpha_code": "IL"
+    },
+    "27": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Ashkelon Academic College",
+      "university_domain": "ash-college.ac.il",
+      "web_page": "http://www.ash-college.ac.il/",
+      "alpha_code": "IL"
+    },
+    "28": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Bezalel Academy of Art and Design",
+      "university_domain": "bezalel.ac.il",
+      "web_page": "http://www.bezalel.ac.il/",
+      "alpha_code": "IL"
+    },
+    "29": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Ben-Gurion University of the Negev",
+      "university_domain": "bgu.ac.il",
+      "web_page": "http://www.bgu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "30": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Bar-Ilan University",
+      "university_domain": "biu.ac.il",
+      "web_page": "http://www.biu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "31": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Acdemic Center for Law and Business",
+      "university_domain": "clb.ac.il",
+      "web_page": "http://www.clb.ac.il/",
+      "alpha_code": "IL"
+    },
+    "32": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "College of Management",
+      "university_domain": "colman.ac.il",
+      "web_page": "http://www.colman.ac.il/",
+      "alpha_code": "IL"
+    },
+    "33": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Galillee College",
+      "university_domain": "galilcol.ac.il",
+      "web_page": "http://www.galilcol.ac.il/",
+      "alpha_code": "IL"
+    },
+    "34": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "University of Haifa",
+      "university_domain": "haifa.ac.il",
+      "web_page": "http://www.haifa.ac.il/",
+      "alpha_code": "IL"
+    },
+    "35": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Hebrew University of Jerusalem",
+      "university_domain": "huji.ac.il",
+      "web_page": "http://www.huji.ac.il/",
+      "alpha_code": "IL"
+    },
+    "36": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "The Interdisciplinary Center Herzliya",
+      "university_domain": "idc.ac.il",
+      "web_page": "http://www.idc.ac.il/",
+      "alpha_code": "IL"
+    },
+    "37": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Jerusalem University College",
+      "university_domain": "juc.edu",
+      "web_page": "http://www.juc.edu/",
+      "alpha_code": "IL"
+    },
+    "38": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Open University of Israel",
+      "university_domain": "openu.ac.il",
+      "web_page": "http://www.openu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "39": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Russell Berrie Nanotechnology Institute",
+      "university_domain": "rbni.technion.ac.il",
+      "web_page": "http://rbni.technion.ac.il/",
+      "alpha_code": "IL"
+    },
+    "40": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Sami Shamoon College of Engineering",
+      "university_domain": "sce.ac.il",
+      "web_page": "http://www.sce.ac.il/",
+      "alpha_code": "IL"
+    },
+    "41": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Shenkar School of Engineering & Design",
+      "university_domain": "shenkar.ac.il",
+      "web_page": "http://www.shenkar.ac.il/",
+      "alpha_code": "IL"
+    },
+    "42": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Tel Aviv University",
+      "university_domain": "tau.ac.il",
+      "web_page": "http://www.tau.ac.il/",
+      "alpha_code": "IL"
+    },
+    "43": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Technion - Israel Institute of Technology",
+      "university_domain": "technion.ac.il",
+      "web_page": "http://www.technion.ac.il/",
+      "alpha_code": "IL"
+    },
+    "44": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Weizmann Institute of Science",
+      "university_domain": "weizmann.ac.il",
+      "web_page": "http://www.weizmann.ac.il/",
+      "alpha_code": "IL"
+    },
+    "45": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Western Galilee College",
+      "university_domain": "wgalil.ac.il",
+      "web_page": "http://www.wgalil.ac.il/",
+      "alpha_code": "IL"
+    },
+    "46": {
+      "datetime": "2021-04-25 22:37:36",
+      "university_name": "Emeq Yizrael College",
+      "university_domain": "yvc.ac.il",
+      "web_page": "http://www.yvc.ac.il/",
+      "alpha_code": "IL"
+    },
+    "47": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Afeka Tel Aviv Academic College of Engineering",
+      "university_domain": "afeka.ac.il",
+      "web_page": "http://www.afeka.ac.il/",
+      "alpha_code": "IL"
+    },
+    "48": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "JCT Lev Academic Center",
+      "university_domain": "jct.ac.il",
+      "web_page": "http://www.jct.ac.il/",
+      "alpha_code": "IL"
+    },
+    "49": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Ariel University Center of Samaria",
+      "university_domain": "ariel.ac.il",
+      "web_page": "http://www.ariel.ac.il/",
+      "alpha_code": "IL"
+    },
+    "50": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Ashkelon Academic College",
+      "university_domain": "ash-college.ac.il",
+      "web_page": "http://www.ash-college.ac.il/",
+      "alpha_code": "IL"
+    },
+    "51": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Bezalel Academy of Art and Design",
+      "university_domain": "bezalel.ac.il",
+      "web_page": "http://www.bezalel.ac.il/",
+      "alpha_code": "IL"
+    },
+    "52": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Ben-Gurion University of the Negev",
+      "university_domain": "bgu.ac.il",
+      "web_page": "http://www.bgu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "53": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Bar-Ilan University",
+      "university_domain": "biu.ac.il",
+      "web_page": "http://www.biu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "54": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Acdemic Center for Law and Business",
+      "university_domain": "clb.ac.il",
+      "web_page": "http://www.clb.ac.il/",
+      "alpha_code": "IL"
+    },
+    "55": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "College of Management",
+      "university_domain": "colman.ac.il",
+      "web_page": "http://www.colman.ac.il/",
+      "alpha_code": "IL"
+    },
+    "56": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Galillee College",
+      "university_domain": "galilcol.ac.il",
+      "web_page": "http://www.galilcol.ac.il/",
+      "alpha_code": "IL"
+    },
+    "57": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "University of Haifa",
+      "university_domain": "haifa.ac.il",
+      "web_page": "http://www.haifa.ac.il/",
+      "alpha_code": "IL"
+    },
+    "58": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Hebrew University of Jerusalem",
+      "university_domain": "huji.ac.il",
+      "web_page": "http://www.huji.ac.il/",
+      "alpha_code": "IL"
+    },
+    "59": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "The Interdisciplinary Center Herzliya",
+      "university_domain": "idc.ac.il",
+      "web_page": "http://www.idc.ac.il/",
+      "alpha_code": "IL"
+    },
+    "60": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Jerusalem University College",
+      "university_domain": "juc.edu",
+      "web_page": "http://www.juc.edu/",
+      "alpha_code": "IL"
+    },
+    "61": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Open University of Israel",
+      "university_domain": "openu.ac.il",
+      "web_page": "http://www.openu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "62": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Russell Berrie Nanotechnology Institute",
+      "university_domain": "rbni.technion.ac.il",
+      "web_page": "http://rbni.technion.ac.il/",
+      "alpha_code": "IL"
+    },
+    "63": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Sami Shamoon College of Engineering",
+      "university_domain": "sce.ac.il",
+      "web_page": "http://www.sce.ac.il/",
+      "alpha_code": "IL"
+    },
+    "64": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Shenkar School of Engineering & Design",
+      "university_domain": "shenkar.ac.il",
+      "web_page": "http://www.shenkar.ac.il/",
+      "alpha_code": "IL"
+    },
+    "65": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Tel Aviv University",
+      "university_domain": "tau.ac.il",
+      "web_page": "http://www.tau.ac.il/",
+      "alpha_code": "IL"
+    },
+    "66": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Technion - Israel Institute of Technology",
+      "university_domain": "technion.ac.il",
+      "web_page": "http://www.technion.ac.il/",
+      "alpha_code": "IL"
+    },
+    "67": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Weizmann Institute of Science",
+      "university_domain": "weizmann.ac.il",
+      "web_page": "http://www.weizmann.ac.il/",
+      "alpha_code": "IL"
+    },
+    "68": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Western Galilee College",
+      "university_domain": "wgalil.ac.il",
+      "web_page": "http://www.wgalil.ac.il/",
+      "alpha_code": "IL"
+    },
+    "69": {
+      "datetime": "2021-04-25 22:38:46",
+      "university_name": "Emeq Yizrael College",
+      "university_domain": "yvc.ac.il",
+      "web_page": "http://www.yvc.ac.il/",
+      "alpha_code": "IL"
+    },
+    "70": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Afeka Tel Aviv Academic College of Engineering",
+      "university_domain": "afeka.ac.il",
+      "web_page": "http://www.afeka.ac.il/",
+      "alpha_code": "IL"
+    },
+    "71": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "JCT Lev Academic Center",
+      "university_domain": "jct.ac.il",
+      "web_page": "http://www.jct.ac.il/",
+      "alpha_code": "IL"
+    },
+    "72": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Ariel University Center of Samaria",
+      "university_domain": "ariel.ac.il",
+      "web_page": "http://www.ariel.ac.il/",
+      "alpha_code": "IL"
+    },
+    "73": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Ashkelon Academic College",
+      "university_domain": "ash-college.ac.il",
+      "web_page": "http://www.ash-college.ac.il/",
+      "alpha_code": "IL"
+    },
+    "74": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Bezalel Academy of Art and Design",
+      "university_domain": "bezalel.ac.il",
+      "web_page": "http://www.bezalel.ac.il/",
+      "alpha_code": "IL"
+    },
+    "75": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Ben-Gurion University of the Negev",
+      "university_domain": "bgu.ac.il",
+      "web_page": "http://www.bgu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "76": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Bar-Ilan University",
+      "university_domain": "biu.ac.il",
+      "web_page": "http://www.biu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "77": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Acdemic Center for Law and Business",
+      "university_domain": "clb.ac.il",
+      "web_page": "http://www.clb.ac.il/",
+      "alpha_code": "IL"
+    },
+    "78": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "College of Management",
+      "university_domain": "colman.ac.il",
+      "web_page": "http://www.colman.ac.il/",
+      "alpha_code": "IL"
+    },
+    "79": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Galillee College",
+      "university_domain": "galilcol.ac.il",
+      "web_page": "http://www.galilcol.ac.il/",
+      "alpha_code": "IL"
+    },
+    "80": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "University of Haifa",
+      "university_domain": "haifa.ac.il",
+      "web_page": "http://www.haifa.ac.il/",
+      "alpha_code": "IL"
+    },
+    "81": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Hebrew University of Jerusalem",
+      "university_domain": "huji.ac.il",
+      "web_page": "http://www.huji.ac.il/",
+      "alpha_code": "IL"
+    },
+    "82": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "The Interdisciplinary Center Herzliya",
+      "university_domain": "idc.ac.il",
+      "web_page": "http://www.idc.ac.il/",
+      "alpha_code": "IL"
+    },
+    "83": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Jerusalem University College",
+      "university_domain": "juc.edu",
+      "web_page": "http://www.juc.edu/",
+      "alpha_code": "IL"
+    },
+    "84": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Open University of Israel",
+      "university_domain": "openu.ac.il",
+      "web_page": "http://www.openu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "85": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Russell Berrie Nanotechnology Institute",
+      "university_domain": "rbni.technion.ac.il",
+      "web_page": "http://rbni.technion.ac.il/",
+      "alpha_code": "IL"
+    },
+    "86": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Sami Shamoon College of Engineering",
+      "university_domain": "sce.ac.il",
+      "web_page": "http://www.sce.ac.il/",
+      "alpha_code": "IL"
+    },
+    "87": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Shenkar School of Engineering & Design",
+      "university_domain": "shenkar.ac.il",
+      "web_page": "http://www.shenkar.ac.il/",
+      "alpha_code": "IL"
+    },
+    "88": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Tel Aviv University",
+      "university_domain": "tau.ac.il",
+      "web_page": "http://www.tau.ac.il/",
+      "alpha_code": "IL"
+    },
+    "89": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Technion - Israel Institute of Technology",
+      "university_domain": "technion.ac.il",
+      "web_page": "http://www.technion.ac.il/",
+      "alpha_code": "IL"
+    },
+    "90": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Weizmann Institute of Science",
+      "university_domain": "weizmann.ac.il",
+      "web_page": "http://www.weizmann.ac.il/",
+      "alpha_code": "IL"
+    },
+    "91": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Western Galilee College",
+      "university_domain": "wgalil.ac.il",
+      "web_page": "http://www.wgalil.ac.il/",
+      "alpha_code": "IL"
+    },
+    "92": {
+      "datetime": "2021-04-25 22:42:56",
+      "university_name": "Emeq Yizrael College",
+      "university_domain": "yvc.ac.il",
+      "web_page": "http://www.yvc.ac.il/",
+      "alpha_code": "IL"
+    },
+    "93": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Afeka Tel Aviv Academic College of Engineering",
+      "university_domain": "afeka.ac.il",
+      "web_page": "http://www.afeka.ac.il/",
+      "alpha_code": "IL"
+    },
+    "94": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "JCT Lev Academic Center",
+      "university_domain": "jct.ac.il",
+      "web_page": "http://www.jct.ac.il/",
+      "alpha_code": "IL"
+    },
+    "95": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Ariel University Center of Samaria",
+      "university_domain": "ariel.ac.il",
+      "web_page": "http://www.ariel.ac.il/",
+      "alpha_code": "IL"
+    },
+    "96": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Ashkelon Academic College",
+      "university_domain": "ash-college.ac.il",
+      "web_page": "http://www.ash-college.ac.il/",
+      "alpha_code": "IL"
+    },
+    "97": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Bezalel Academy of Art and Design",
+      "university_domain": "bezalel.ac.il",
+      "web_page": "http://www.bezalel.ac.il/",
+      "alpha_code": "IL"
+    },
+    "98": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Ben-Gurion University of the Negev",
+      "university_domain": "bgu.ac.il",
+      "web_page": "http://www.bgu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "99": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Bar-Ilan University",
+      "university_domain": "biu.ac.il",
+      "web_page": "http://www.biu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "100": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Acdemic Center for Law and Business",
+      "university_domain": "clb.ac.il",
+      "web_page": "http://www.clb.ac.il/",
+      "alpha_code": "IL"
+    },
+    "101": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "College of Management",
+      "university_domain": "colman.ac.il",
+      "web_page": "http://www.colman.ac.il/",
+      "alpha_code": "IL"
+    },
+    "102": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Galillee College",
+      "university_domain": "galilcol.ac.il",
+      "web_page": "http://www.galilcol.ac.il/",
+      "alpha_code": "IL"
+    },
+    "103": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "University of Haifa",
+      "university_domain": "haifa.ac.il",
+      "web_page": "http://www.haifa.ac.il/",
+      "alpha_code": "IL"
+    },
+    "104": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Hebrew University of Jerusalem",
+      "university_domain": "huji.ac.il",
+      "web_page": "http://www.huji.ac.il/",
+      "alpha_code": "IL"
+    },
+    "105": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "The Interdisciplinary Center Herzliya",
+      "university_domain": "idc.ac.il",
+      "web_page": "http://www.idc.ac.il/",
+      "alpha_code": "IL"
+    },
+    "106": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Jerusalem University College",
+      "university_domain": "juc.edu",
+      "web_page": "http://www.juc.edu/",
+      "alpha_code": "IL"
+    },
+    "107": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Open University of Israel",
+      "university_domain": "openu.ac.il",
+      "web_page": "http://www.openu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "108": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Russell Berrie Nanotechnology Institute",
+      "university_domain": "rbni.technion.ac.il",
+      "web_page": "http://rbni.technion.ac.il/",
+      "alpha_code": "IL"
+    },
+    "109": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Sami Shamoon College of Engineering",
+      "university_domain": "sce.ac.il",
+      "web_page": "http://www.sce.ac.il/",
+      "alpha_code": "IL"
+    },
+    "110": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Shenkar School of Engineering & Design",
+      "university_domain": "shenkar.ac.il",
+      "web_page": "http://www.shenkar.ac.il/",
+      "alpha_code": "IL"
+    },
+    "111": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Tel Aviv University",
+      "university_domain": "tau.ac.il",
+      "web_page": "http://www.tau.ac.il/",
+      "alpha_code": "IL"
+    },
+    "112": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Technion - Israel Institute of Technology",
+      "university_domain": "technion.ac.il",
+      "web_page": "http://www.technion.ac.il/",
+      "alpha_code": "IL"
+    },
+    "113": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Weizmann Institute of Science",
+      "university_domain": "weizmann.ac.il",
+      "web_page": "http://www.weizmann.ac.il/",
+      "alpha_code": "IL"
+    },
+    "114": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Western Galilee College",
+      "university_domain": "wgalil.ac.il",
+      "web_page": "http://www.wgalil.ac.il/",
+      "alpha_code": "IL"
+    },
+    "115": {
+      "datetime": "2021-04-25 22:43:38",
+      "university_name": "Emeq Yizrael College",
+      "university_domain": "yvc.ac.il",
+      "web_page": "http://www.yvc.ac.il/",
+      "alpha_code": "IL"
+    },
+    "116": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Afeka Tel Aviv Academic College of Engineering",
+      "university_domain": "afeka.ac.il",
+      "web_page": "http://www.afeka.ac.il/",
+      "alpha_code": "IL"
+    },
+    "117": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "JCT Lev Academic Center",
+      "university_domain": "jct.ac.il",
+      "web_page": "http://www.jct.ac.il/",
+      "alpha_code": "IL"
+    },
+    "118": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Ariel University Center of Samaria",
+      "university_domain": "ariel.ac.il",
+      "web_page": "http://www.ariel.ac.il/",
+      "alpha_code": "IL"
+    },
+    "119": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Ashkelon Academic College",
+      "university_domain": "ash-college.ac.il",
+      "web_page": "http://www.ash-college.ac.il/",
+      "alpha_code": "IL"
+    },
+    "120": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Bezalel Academy of Art and Design",
+      "university_domain": "bezalel.ac.il",
+      "web_page": "http://www.bezalel.ac.il/",
+      "alpha_code": "IL"
+    },
+    "121": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Ben-Gurion University of the Negev",
+      "university_domain": "bgu.ac.il",
+      "web_page": "http://www.bgu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "122": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Bar-Ilan University",
+      "university_domain": "biu.ac.il",
+      "web_page": "http://www.biu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "123": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Acdemic Center for Law and Business",
+      "university_domain": "clb.ac.il",
+      "web_page": "http://www.clb.ac.il/",
+      "alpha_code": "IL"
+    },
+    "124": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "College of Management",
+      "university_domain": "colman.ac.il",
+      "web_page": "http://www.colman.ac.il/",
+      "alpha_code": "IL"
+    },
+    "125": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Galillee College",
+      "university_domain": "galilcol.ac.il",
+      "web_page": "http://www.galilcol.ac.il/",
+      "alpha_code": "IL"
+    },
+    "126": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "University of Haifa",
+      "university_domain": "haifa.ac.il",
+      "web_page": "http://www.haifa.ac.il/",
+      "alpha_code": "IL"
+    },
+    "127": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Hebrew University of Jerusalem",
+      "university_domain": "huji.ac.il",
+      "web_page": "http://www.huji.ac.il/",
+      "alpha_code": "IL"
+    },
+    "128": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "The Interdisciplinary Center Herzliya",
+      "university_domain": "idc.ac.il",
+      "web_page": "http://www.idc.ac.il/",
+      "alpha_code": "IL"
+    },
+    "129": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Jerusalem University College",
+      "university_domain": "juc.edu",
+      "web_page": "http://www.juc.edu/",
+      "alpha_code": "IL"
+    },
+    "130": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Open University of Israel",
+      "university_domain": "openu.ac.il",
+      "web_page": "http://www.openu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "131": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Russell Berrie Nanotechnology Institute",
+      "university_domain": "rbni.technion.ac.il",
+      "web_page": "http://rbni.technion.ac.il/",
+      "alpha_code": "IL"
+    },
+    "132": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Sami Shamoon College of Engineering",
+      "university_domain": "sce.ac.il",
+      "web_page": "http://www.sce.ac.il/",
+      "alpha_code": "IL"
+    },
+    "133": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Shenkar School of Engineering & Design",
+      "university_domain": "shenkar.ac.il",
+      "web_page": "http://www.shenkar.ac.il/",
+      "alpha_code": "IL"
+    },
+    "134": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Tel Aviv University",
+      "university_domain": "tau.ac.il",
+      "web_page": "http://www.tau.ac.il/",
+      "alpha_code": "IL"
+    },
+    "135": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Technion - Israel Institute of Technology",
+      "university_domain": "technion.ac.il",
+      "web_page": "http://www.technion.ac.il/",
+      "alpha_code": "IL"
+    },
+    "136": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Weizmann Institute of Science",
+      "university_domain": "weizmann.ac.il",
+      "web_page": "http://www.weizmann.ac.il/",
+      "alpha_code": "IL"
+    },
+    "137": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Western Galilee College",
+      "university_domain": "wgalil.ac.il",
+      "web_page": "http://www.wgalil.ac.il/",
+      "alpha_code": "IL"
+    },
+    "138": {
+      "datetime": "2021-04-25 22:46:11",
+      "university_name": "Emeq Yizrael College",
+      "university_domain": "yvc.ac.il",
+      "web_page": "http://www.yvc.ac.il/",
+      "alpha_code": "IL"
+    },
+    "139": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Afeka Tel Aviv Academic College of Engineering",
+      "university_domain": "afeka.ac.il",
+      "web_page": "http://www.afeka.ac.il/",
+      "alpha_code": "IL"
+    },
+    "140": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "JCT Lev Academic Center",
+      "university_domain": "jct.ac.il",
+      "web_page": "http://www.jct.ac.il/",
+      "alpha_code": "IL"
+    },
+    "141": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Ariel University Center of Samaria",
+      "university_domain": "ariel.ac.il",
+      "web_page": "http://www.ariel.ac.il/",
+      "alpha_code": "IL"
+    },
+    "142": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Ashkelon Academic College",
+      "university_domain": "ash-college.ac.il",
+      "web_page": "http://www.ash-college.ac.il/",
+      "alpha_code": "IL"
+    },
+    "143": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Bezalel Academy of Art and Design",
+      "university_domain": "bezalel.ac.il",
+      "web_page": "http://www.bezalel.ac.il/",
+      "alpha_code": "IL"
+    },
+    "144": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Ben-Gurion University of the Negev",
+      "university_domain": "bgu.ac.il",
+      "web_page": "http://www.bgu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "145": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Bar-Ilan University",
+      "university_domain": "biu.ac.il",
+      "web_page": "http://www.biu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "146": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Acdemic Center for Law and Business",
+      "university_domain": "clb.ac.il",
+      "web_page": "http://www.clb.ac.il/",
+      "alpha_code": "IL"
+    },
+    "147": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "College of Management",
+      "university_domain": "colman.ac.il",
+      "web_page": "http://www.colman.ac.il/",
+      "alpha_code": "IL"
+    },
+    "148": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Galillee College",
+      "university_domain": "galilcol.ac.il",
+      "web_page": "http://www.galilcol.ac.il/",
+      "alpha_code": "IL"
+    },
+    "149": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "University of Haifa",
+      "university_domain": "haifa.ac.il",
+      "web_page": "http://www.haifa.ac.il/",
+      "alpha_code": "IL"
+    },
+    "150": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Hebrew University of Jerusalem",
+      "university_domain": "huji.ac.il",
+      "web_page": "http://www.huji.ac.il/",
+      "alpha_code": "IL"
+    },
+    "151": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "The Interdisciplinary Center Herzliya",
+      "university_domain": "idc.ac.il",
+      "web_page": "http://www.idc.ac.il/",
+      "alpha_code": "IL"
+    },
+    "152": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Jerusalem University College",
+      "university_domain": "juc.edu",
+      "web_page": "http://www.juc.edu/",
+      "alpha_code": "IL"
+    },
+    "153": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Open University of Israel",
+      "university_domain": "openu.ac.il",
+      "web_page": "http://www.openu.ac.il/",
+      "alpha_code": "IL"
+    },
+    "154": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Russell Berrie Nanotechnology Institute",
+      "university_domain": "rbni.technion.ac.il",
+      "web_page": "http://rbni.technion.ac.il/",
+      "alpha_code": "IL"
+    },
+    "155": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Sami Shamoon College of Engineering",
+      "university_domain": "sce.ac.il",
+      "web_page": "http://www.sce.ac.il/",
+      "alpha_code": "IL"
+    },
+    "156": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Shenkar School of Engineering & Design",
+      "university_domain": "shenkar.ac.il",
+      "web_page": "http://www.shenkar.ac.il/",
+      "alpha_code": "IL"
+    },
+    "157": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Tel Aviv University",
+      "university_domain": "tau.ac.il",
+      "web_page": "http://www.tau.ac.il/",
+      "alpha_code": "IL"
+    },
+    "158": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Technion - Israel Institute of Technology",
+      "university_domain": "technion.ac.il",
+      "web_page": "http://www.technion.ac.il/",
+      "alpha_code": "IL"
+    },
+    "159": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Weizmann Institute of Science",
+      "university_domain": "weizmann.ac.il",
+      "web_page": "http://www.weizmann.ac.il/",
+      "alpha_code": "IL"
+    },
+    "160": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Western Galilee College",
+      "university_domain": "wgalil.ac.il",
+      "web_page": "http://www.wgalil.ac.il/",
+      "alpha_code": "IL"
+    },
+    "161": {
+      "datetime": "2021-04-25 22:46:22",
+      "university_name": "Emeq Yizrael College",
+      "university_domain": "yvc.ac.il",
+      "web_page": "http://www.yvc.ac.il/",
+      "alpha_code": "IL"
+    }
+  }
+}

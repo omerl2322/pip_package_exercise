@@ -58,4 +58,4 @@ dependencies:
     - urllib3==1.26.4
     - webencodings==0.5.1
     - zipp==3.4.1
-prefix: /Users/omlevi/opt/anaconda3/envs/solar_edge_evn
+prefix: /opt/anaconda3/envs/solar_edge_evn
